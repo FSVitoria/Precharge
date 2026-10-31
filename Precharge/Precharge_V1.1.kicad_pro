@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Precharge.kicad_pro",
+    "filename": "Precharge_V1.1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,9 +656,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Precharge.kicad_sch",
+        "filename": "Precharge_V1.1.kicad_sch",
         "name": "",
-        "uuid": "d366b6f3-a9c8-4391-9441-ce186f3366ec"
+        "uuid": "8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
       }
     ],
     "used_designators": "",
@@ -666,35 +666,35 @@
   },
   "sheets": [
     [
-      "383f9830-f860-4258-9e8b-197a6c1d8e00",
+      "8082e584-72b2-476a-98e1-2cd0c07ea6ec",
       "Power Supply"
     ],
     [
-      "d8ac1451-4e63-4ec0-8809-43083734ad42",
+      "0d9ea405-43e3-450c-a8d5-b7a28707626c",
       "Timer"
     ],
     [
-      "13ce1242-93d4-4f47-89de-cf74ad820cab",
+      "d5cd042e-bfd7-493a-bf3d-fe8008ec0dcf",
       "Precharge Driver"
     ],
     [
-      "942cd0c5-0991-460f-9a64-6edb1b653941",
+      "7867b125-d075-48a7-b292-7239f3bac600",
       "ACCU Volt. Measure"
     ],
     [
-      "2e71792e-7dcb-4fda-bc09-1c94f36bb8ae",
+      "1c09399d-52e2-4333-a43e-a67d6c03d50e",
       "TS Voltage Measure"
     ],
     [
-      "247ab736-e6dd-4369-b2f0-265c5da54014",
+      "5e075ded-2b93-4333-b395-d7744b32bdb8",
       "AIRs Control"
     ],
     [
-      "60ae7b1d-92b7-46f3-9a7a-ae558910beff",
+      "8c2b95ca-b2d2-40a8-971e-39c78e874943",
       "Connector"
     ],
     [
-      "d366b6f3-a9c8-4391-9441-ce186f3366ec",
+      "8becf5b8-5003-4fd6-b0dc-9240ee07c0a5",
       ""
     ]
   ],

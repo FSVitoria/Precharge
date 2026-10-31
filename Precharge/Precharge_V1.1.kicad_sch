@@ -2,285 +2,9 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "d366b6f3-a9c8-4391-9441-ce186f3366ec")
+	(uuid "8becf5b8-5003-4fd6-b0dc-9240ee07c0a5")
 	(paper "A4")
 	(lib_symbols)
-	(sheet
-		(at 5.08 22.86)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "13ce1242-93d4-4f47-89de-cf74ad820cab")
-		(property "Sheetname" "Precharge Driver"
-			(at 5.08 22.1484 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Precharge Driver.kicad_sch"
-			(at 5.08 27.2546 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Precharge"
-				(path "/d366b6f3-a9c8-4391-9441-ce186f3366ec"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 5.08 49.53)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "247ab736-e6dd-4369-b2f0-265c5da54014")
-		(property "Sheetname" "AIRs Control"
-			(at 5.08 48.8184 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "AIRs Control.kicad_sch"
-			(at 5.08 53.9246 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Precharge"
-				(path "/d366b6f3-a9c8-4391-9441-ce186f3366ec"
-					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 5.08 40.64)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "2e71792e-7dcb-4fda-bc09-1c94f36bb8ae")
-		(property "Sheetname" "TS Voltage Measure"
-			(at 5.08 39.9284 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "TS Voltage Measure.kicad_sch"
-			(at 5.08 45.0346 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Precharge"
-				(path "/d366b6f3-a9c8-4391-9441-ce186f3366ec"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 5.08 5.08)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "383f9830-f860-4258-9e8b-197a6c1d8e00")
-		(property "Sheetname" "Power Supply"
-			(at 5.08 4.3684 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Power Supply.kicad_sch"
-			(at 5.08 9.4746 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Precharge"
-				(path "/d366b6f3-a9c8-4391-9441-ce186f3366ec"
-					(page "1")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 5.08 58.42)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "60ae7b1d-92b7-46f3-9a7a-ae558910beff")
-		(property "Sheetname" "Connector"
-			(at 5.08 57.7084 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Connector.kicad_sch"
-			(at 5.08 62.8146 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Precharge"
-				(path "/d366b6f3-a9c8-4391-9441-ce186f3366ec"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 5.08 31.75)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "942cd0c5-0991-460f-9a64-6edb1b653941")
-		(property "Sheetname" "ACCU Volt. Measure"
-			(at 5.08 31.0384 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "ACCU Volt. Measure.kicad_sch"
-			(at 5.08 36.1446 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Precharge"
-				(path "/d366b6f3-a9c8-4391-9441-ce186f3366ec"
-					(page "4")
-				)
-			)
-		)
-	)
 	(sheet
 		(at 5.08 13.97)
 		(size 12.7 3.81)
@@ -296,7 +20,7 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "d8ac1451-4e63-4ec0-8809-43083734ad42")
+		(uuid "0d9ea405-43e3-450c-a8d5-b7a28707626c")
 		(property "Sheetname" "Timer"
 			(at 5.08 13.2584 0)
 			(show_name no)
@@ -320,9 +44,285 @@
 			)
 		)
 		(instances
-			(project "Precharge"
-				(path "/d366b6f3-a9c8-4391-9441-ce186f3366ec"
+			(project "Precharge_V1.1"
+				(path "/8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 40.64)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1c09399d-52e2-4333-a43e-a67d6c03d50e")
+		(property "Sheetname" "TS Voltage Measure"
+			(at 5.08 39.9284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TS Voltage Measure.kicad_sch"
+			(at 5.08 45.0346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Precharge_V1.1"
+				(path "/8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 49.53)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5e075ded-2b93-4333-b395-d7744b32bdb8")
+		(property "Sheetname" "AIRs Control"
+			(at 5.08 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AIRs Control.kicad_sch"
+			(at 5.08 53.9246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Precharge_V1.1"
+				(path "/8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 31.75)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7867b125-d075-48a7-b292-7239f3bac600")
+		(property "Sheetname" "ACCU Volt. Measure"
+			(at 5.08 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ACCU Volt. Measure.kicad_sch"
+			(at 5.08 36.1446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Precharge_V1.1"
+				(path "/8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 5.08)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8082e584-72b2-476a-98e1-2cd0c07ea6ec")
+		(property "Sheetname" "Power Supply"
+			(at 5.08 4.3684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power Supply.kicad_sch"
+			(at 5.08 9.4746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Precharge_V1.1"
+				(path "/8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 58.42)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8c2b95ca-b2d2-40a8-971e-39c78e874943")
+		(property "Sheetname" "Connector"
+			(at 5.08 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connector.kicad_sch"
+			(at 5.08 62.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Precharge_V1.1"
+				(path "/8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 5.08 22.86)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d5cd042e-bfd7-493a-bf3d-fe8008ec0dcf")
+		(property "Sheetname" "Precharge Driver"
+			(at 5.08 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Precharge Driver.kicad_sch"
+			(at 5.08 27.2546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Precharge_V1.1"
+				(path "/8becf5b8-5003-4fd6-b0dc-9240ee07c0a5"
+					(page "3")
 				)
 			)
 		)
